@@ -1,0 +1,24 @@
+.profilepic{
+  border-radius:50%;
+  height:50px;
+  width:50px;
+}
+
+.unameContainer, .feed, .social{
+  padding-left:20px;
+  font-size:12px;
+
+}
+
+.tweetContainer:hover{
+  background-color:#f1f1f1;
+}
+
+.social{
+  padding-top:5px;
+}
+
+.tweetContainer{
+  margin:5px 0 5px 0;
+  padding:10px;
+}
